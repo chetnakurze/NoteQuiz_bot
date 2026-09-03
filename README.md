@@ -2,6 +2,8 @@
 
 An intelligent, browser-based study assistant and active recall quiz generator. **NoteQuiz** turns lecture notes, study guides, and presentation documents into focused quizzes with customizable question types, difficulty levels, and instant answer keys.
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/chetnakurze/NoteQuiz_bot)
+
 ---
 
 ## ✨ Features
